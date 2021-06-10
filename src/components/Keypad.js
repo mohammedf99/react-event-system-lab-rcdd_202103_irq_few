@@ -5,7 +5,7 @@ const Keypad = () => {
   return(
     
     <div>
-      <input type="password" />
+      <input type="password" onKey />
     </div>
     
   )
