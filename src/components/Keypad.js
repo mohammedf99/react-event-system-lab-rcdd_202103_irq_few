@@ -1,6 +1,6 @@
 // Code Keypad Component Here
 
-const EyesOnMe = () => {
+const Keypad = () => {
   
   return(
     
@@ -12,4 +12,4 @@ const EyesOnMe = () => {
   
 }
 
-export default EyesOnMe;
+export default Keypad;
