@@ -5,7 +5,7 @@ const EyesOnMe = () => {
   return(
     
     <div>
-      
+      <button onClick={} onBlur={}>Click</button>
     </div>
     
   )
