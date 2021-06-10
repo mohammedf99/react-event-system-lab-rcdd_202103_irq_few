@@ -5,7 +5,7 @@ const EyesOnMe = () => {
   return(
     
     <div>
-      <button onClick={} onBlur={}>Click</button>
+      <button onClick={() => console.log('Good!')} onBlur={}>Click</button>
     </div>
     
   )
