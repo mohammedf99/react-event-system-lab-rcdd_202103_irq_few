@@ -3,6 +3,7 @@
 const EyesOnMe = () => {
   
   return(
+    
     <div>
       
     </div>
@@ -10,3 +11,5 @@ const EyesOnMe = () => {
   )
   
 }
+
+export default EyesOnMe;
